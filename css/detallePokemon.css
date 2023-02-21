@@ -1,0 +1,48 @@
+section {
+background-color: #0a014f;
+background-image: linear-gradient(180deg, #0a014f 0%, #eaadf6 46%, #0a014f 100%);
+}
+
+.a-unstyled {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  border-radius: 0.375rem;
+}
+
+.bg-card {
+  background-color: #a9c9ff;
+  background-image: linear-gradient(180deg, #a9c9ff 0%, #ffbbec 100%);
+}
+
+.btn-planta {
+  background-color: #9bcc50;
+}
+
+.btn-veneno {
+  background-color: #b97fc9;
+  color: white;
+}
+
+.btn-fuego {
+  background-color: #fd7d24;
+  color: white;
+}
+
+.btn-psiquico {
+  background-color: #f366b9;
+  color: white;
+}
+
+.btn-volador {
+  background-color: #3dc7ef;
+  background: linear-gradient(180deg, #3dc7ef 50%, #fff 50%);
+}
+
+.btn-hielo {
+  background-color: #51c4e7;
+}
+
+.text-stats {
+  color: #624CAB!important;
+}
