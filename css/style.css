@@ -3,8 +3,28 @@
 
 .badgevioleta{
     background-color: blueviolet;
+    color: aliceblue;
+    font-size: 12px;
+
     
 }
 .badgeverde{
     background-color:chartreuse;
+    color: aliceblue;
+    font-size: 12px;
+}
+.badgenaranja{
+    background-color:orange;
+    color: aliceblue;
+    font-size: 12px;
+}
+.badgegris{
+    background-color:gray;
+    color: aliceblue;
+    font-size: 12px;
+}
+.badgeblue{
+    background-color:blue;
+    color: aliceblue;
+    font-size: 12px;
 }
